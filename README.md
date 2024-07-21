@@ -6,4 +6,4 @@
 
 ## Repositório Destacado
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel081&repo=manoel081-1&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel081&repo=manoel081/readme.md-1&theme=dark)
