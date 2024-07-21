@@ -1,9 +1,9 @@
-## Available Themes
+# Meu GitHub
 
-With inbuilt themes, you can customize the look of the card without doing any manual customization.
+## Estatísticas do GitHub
 
-Use `?theme=dark` parameter like so:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoel081&show_icons=true&theme=dark)
 
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel081&show_icons=true&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel081&repo=meu-repositorio&theme=dark)
+## Repositório Destacado
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel081&repo=manoel081-1&theme=dark)
