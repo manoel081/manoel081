@@ -5,6 +5,12 @@
   </a>
 </div>
 
+## Biography
+
+I have a strong focus on my work and am constantly looking to improve my skills. I always strive to share my knowledge to add value within the team. 👨‍💻
+
+I believe continuous learning is essential so that I can learn and share knowledge in a way that benefits not only myself but also others.
+
 ## Programming Languages
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
@@ -41,7 +47,7 @@
   <!-- <a href="mailto:contatorafaballerini@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30">
   </a> -->
-  <a href="https://www.linkedin.com/in/manoel-victor-76015a216/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
   </a>
 </div>
