@@ -52,4 +52,4 @@ I believe continuous learning is essential so that I can learn and share knowled
   </a>
 </div>
 
-![Snake animation](https://github.com/manoel081/manoel081/blob/output/github-contribution-grid-snake.svg)
+
